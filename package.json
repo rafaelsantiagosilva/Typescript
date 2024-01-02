@@ -1,0 +1,10 @@
+{
+  "name": "Typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rafaelsantiagosilva <rafael.santiago.silva.1405@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
