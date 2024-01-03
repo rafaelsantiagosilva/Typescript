@@ -1,5 +1,5 @@
 {
-  "include": ["./TypeScript", "JavaScript/00_helloworld.js"],
+  "include": ["./TypeScript", "JavaScript/00_helloworld.js", "JavaScript/01_tiposPrimitivos.js"],
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
