@@ -8,9 +8,9 @@
 		"typescript": "^5.3.3"
 	},
 	"scripts": {
-		"start": "node build/index.js",
-		"start:ts": "ts-node src/index.ts",
-		"dev": "ts-node-dev --transpile-only sr/index.ts"
+		"start": "node build/01_tiposPrimitivos.js",
+		"start:ts": "ts-node src/01_tiposPrimitivos.ts",
+		"dev": "ts-node-dev --transpile-only src/01_tiposPrimitivos.ts"
 	},
 	"devDependencies": {
 		"ts-node": "^10.9.2",
