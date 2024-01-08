@@ -5,3 +5,8 @@ ourTuple = [5, false, 'Codando...'];
 // Tuplas readonly
 let ourTupleReadOnly: [number, boolean, string] = [1, true, 'verdadeiro']; // Não pode alterar ou adicionar
 
+// Indices com nomes
+const GRAPH: [number1: number, number2: number] = [1, 2];
+
+// Desestruturando tuplas
+const [x, y] = GRAPH;
