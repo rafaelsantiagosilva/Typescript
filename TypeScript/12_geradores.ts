@@ -22,7 +22,7 @@ class NamedValue<T> {
 		return this._value;
 	}
 
-     public toString(): string {
-          return `${this.name}: ${this._value}`;
-     }
+	public toString(): string {
+		return `${this.name}: ${this._value}`;
+	}
 }
