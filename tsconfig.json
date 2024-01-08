@@ -1,5 +1,5 @@
 {
-  "include": ["./TypeScript", "JavaScript/00_helloworld.js", "JavaScript/01_tiposPrimitivos.js", "JavaScript/02_arrays.js", "JavaScript/03_tuplas.js", "JavaScript/04_objetos.js", "JavaScript/05_enums.js"],
+  "include": ["./TypeScript", "JavaScript/00_helloworld.js", "JavaScript/01_tiposPrimitivos.js", "JavaScript/02_arrays.js", "JavaScript/03_tuplas.js", "JavaScript/04_objetos.js", "JavaScript/05_enums.js", "JavaScript/06_aliases.js"],
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
